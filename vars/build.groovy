@@ -1,4 +1,4 @@
-def call(Map config=[:])
+def call()
 {
-    echo 'build the application here!'
+    echo "build the application here!"
 }
